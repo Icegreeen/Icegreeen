@@ -22,7 +22,8 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://user-images.githubusercontent.com/56550632/107801321-ae069900-6d3e-11eb-9f19-1f3b03404523.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/56550632/112746037-da8b1300-8f82-11eb-8c6f-3aaa5062bdce.jpg"></code>
+<code><img height="30" src="(https://user-images.githubusercontent.com/56550632/112745881-eb875480-8f81-11eb-8ad0-290dd57bf0e6.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/56550632/107804256-70a40a80-6d42-11eb-96c3-f54c49b0c648.jpg"></code>
