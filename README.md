@@ -25,6 +25,6 @@
 <code><img height="30" src="https://user-images.githubusercontent.com/56550632/112746123-51281080-8f83-11eb-854a-a5b87208d608.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/56550632/112745881-eb875480-8f81-11eb-8ad0-290dd57bf0e6.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/56550632/107804256-70a40a80-6d42-11eb-96c3-f54c49b0c648.jpg"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/56550632/112746243-f80cac80-8f83-11eb-9f8a-56d7b159ebab.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/56550632/112746413-014a4900-8f85-11eb-8bba-03939607c461.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/56550632/112746096-29d14380-8f83-11eb-8bb5-31a2b6975106.png"></code>
