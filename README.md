@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/56550632/107805226-ce852200-6d43-11eb-81e9-c479bead315e.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/flavio-aquila-283833161/">
-<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Fl%C3%A1vio%20%C3%80quila-blue"/>
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue"/>
 </a>
 
 <a href="https://www.instagram.com/lcegreen/">
@@ -22,7 +22,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://user-images.githubusercontent.com/56550632/112746123-51281080-8f83-11eb-854a-a5b87208d608.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/56550632/112747150-d6aebf00-8f89-11eb-8408-b8422714f8ad.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/56550632/112745881-eb875480-8f81-11eb-8ad0-290dd57bf0e6.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/56550632/112746243-f80cac80-8f83-11eb-9f8a-56d7b159ebab.png"></code>
