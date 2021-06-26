@@ -1,5 +1,5 @@
 
-<img align="right" src="https://user-images.githubusercontent.com/56550632/120578558-66467300-c3fc-11eb-8272-f356100e6b6f.png" width="285"/>
+<img align="right" src="https://user-images.githubusercontent.com/56550632/123497151-491f5180-d602-11eb-814e-873795dc7aa8.png" width="285"/>
 
 <a href="https://www.linkedin.com/in/flavio-aquila-283833161/">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue"/>
