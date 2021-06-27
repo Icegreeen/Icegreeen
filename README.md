@@ -1,9 +1,10 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/56550632/120578558-66467300-c3fc-11eb-8272-f356100e6b6f.png" width="285"/>
-
+<br>
+<br>
 ### Hey! Welcome to my profile! 
 
-- 🚀 Front-End developer.
+- 🚀 Front-end Developer.
 - 💻 Studying JavaScript {Node.js and react}.
 - ✨ Learning is continuous and there will always be a next level.
 
